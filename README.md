@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @serkansonmez
 - 👀 I am interested in freelance software development.
-- 🌱 I am currently learning .NET Core 6.0
+- 🌱 I am currently learning .NET Core 8.0
 - 💞️ I want to collaborate on web or Winform projects. There are various examples on my website https://www.serkansonmez.com.
 - 📫 How to reach me serkansonmez16@gmail.com or +905333095822
 
